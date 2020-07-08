@@ -1,6 +1,5 @@
 # Fashion-MNIST
-In this notebook, we build a simple convoluation neural network using tensorflow to classify Fashion-MNIST dataset
-(https://www.kaggle.com/zalando-research/fashionmnist), which is a dataset of Zalando's article images. 
+In this notebook, we build a simple convoluation neural network using tensorflow to classify Fashion-MNIST dataset, which is a dataset of Zalando's article images. 
 Fashion-MNIST serves as a direct drop-in replacement for the original MNIST dataset for benchmarking 
 machine learning algorithms 
 
@@ -18,5 +17,5 @@ associated with a label from 10 classes as mentioned below.
 8 Bag <br>
 9 Ankle boot
 
-https://github.com/zalandoresearch/fashion-mnist
+
 <img src="https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/fashion-mnist-sprite.png">
